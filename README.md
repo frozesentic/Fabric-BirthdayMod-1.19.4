@@ -1,4 +1,4 @@
-<img src="https://github.com/frozesentic/Fabric-BirthdayMod-1.19.4/assets/99868523/14124613-cd49-4b7a-8058-0b5e0b8a3914.png" width=35% height=35%>
+<img src="https://github.com/frozesentic/Fabric-BirthdayMod-1.19.4/assets/99868523/14124613-cd49-4b7a-8058-0b5e0b8a3914.png" width=20% height=20%>
 
 # Fabric-BirthdayMod-1.19.4
 
