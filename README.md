@@ -1,14 +1,14 @@
-<img src="https://github.com/frozesentic/Fabric-BirthdayMod-1.19.4/assets/99868523/14124613-cd49-4b7a-8058-0b5e0b8a3914.png" width=20% height=20%>
+<p align="center"><img src="https://github.com/frozesentic/Fabric-BirthdayMod-1.19.4/assets/99868523/521ae0d7-2a29-4bb2-b83b-877b4f89e471" width=20% height=20%>
+</p>
+<h1 align="center"> Fabric-BirthdayMod-1.19.4</h1>
 
-# Fabric-BirthdayMod-1.19.4
+<p align="center"><img src="https://img.shields.io/badge/game%20vesion-1.19.4-brightgreen"</p> <img src="https://img.shields.io/badge/lincense-CC0--1.0-yellow"</p> <p align="center"><img src="https://img.shields.io/badge/loader-Fabric-red"
+</p>
 
-![()](https://img.shields.io/badge/game%20vesion-1.19.4-brightgreen) ![()](https://img.shields.io/badge/lincense-CC0--1.0-yellow) ![()](https://img.shields.io/badge/loader-Fabric-red)
-
-BirthdayMod is a free and open-source fun mod for the Minecraft client that was made for the birthday of Gioweedori!
-_______
+<p align="center">BirthdayMod is a free and open-source fun mod for the Minecraft client that was made for the birthday of Gioweedori!</p>
+_________________________________________________________________________________________________________________________________________________
 
 ## Installation
-## Manual installation
 Minecraft Launcher
 If you already have Fabric Loader installed, skip to step 4.
 
