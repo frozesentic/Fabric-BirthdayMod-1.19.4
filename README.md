@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">BirthdayMod is a free and open-source fun mod for the Minecraft client that was made for the birthday of Gioweedori!</p>
-_______________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
 
 ## Installation
 Minecraft Launcher
